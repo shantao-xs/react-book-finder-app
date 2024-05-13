@@ -38,28 +38,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-/**
- * @remix-run/router v1.16.1
- *
- * Copyright (c) Remix Software Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE.md file in the root directory of this source tree.
- *
- * @license MIT
- */
-
-/**
- * React Router v6.23.1
- *
- * Copyright (c) Remix Software Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE.md file in the root directory of this source tree.
- *
- * @license MIT
- */
-
 //! 使用 encodeURIComponent 对搜索条件进行编码.注意这些应该在异步fetch的内部，因为url实时在变
 
 //! 因为usestate异步，所以不能通过console.log看到即时的效果，要监测的话就用useEffect

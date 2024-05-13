@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-book-finder-app/static/css/main.3c7a881c.css",
-    "main.js": "/react-book-finder-app/static/js/main.c521bda3.js",
+    "main.js": "/react-book-finder-app/static/js/main.c79fc2f4.js",
     "static/media/default.jpg": "/react-book-finder-app/static/media/default.cd0007132ea278898479.jpg",
     "static/media/loadingAnimation.svg": "/react-book-finder-app/static/media/loadingAnimation.879268c58994eeed5997697aa7b0d560.svg",
     "index.html": "/react-book-finder-app/index.html",
     "main.3c7a881c.css.map": "/react-book-finder-app/static/css/main.3c7a881c.css.map",
-    "main.c521bda3.js.map": "/react-book-finder-app/static/js/main.c521bda3.js.map"
+    "main.c79fc2f4.js.map": "/react-book-finder-app/static/js/main.c79fc2f4.js.map"
   },
   "entrypoints": [
     "static/css/main.3c7a881c.css",
-    "static/js/main.c521bda3.js"
+    "static/js/main.c79fc2f4.js"
   ]
 }
