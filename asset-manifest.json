@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shantao-xs/react-book-finder-app/static/css/main.3c7a881c.css",
+    "main.js": "/shantao-xs/react-book-finder-app/static/js/main.1177dcdf.js",
+    "static/media/default.jpg": "/shantao-xs/react-book-finder-app/static/media/default.cd0007132ea278898479.jpg",
+    "static/media/loadingAnimation.svg": "/shantao-xs/react-book-finder-app/static/media/loadingAnimation.879268c58994eeed5997697aa7b0d560.svg",
+    "index.html": "/shantao-xs/react-book-finder-app/index.html",
+    "main.3c7a881c.css.map": "/shantao-xs/react-book-finder-app/static/css/main.3c7a881c.css.map",
+    "main.1177dcdf.js.map": "/shantao-xs/react-book-finder-app/static/js/main.1177dcdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7a881c.css",
+    "static/js/main.1177dcdf.js"
+  ]
+}
